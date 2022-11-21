@@ -1,3 +1,5 @@
+# Using Spring Boot and MySQL
+
 ## Here database name : ems
 
     spring.datasource.url=jdbc:mysql://localhost:3306/ems?useSSL=false
